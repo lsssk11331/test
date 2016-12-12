@@ -33,7 +33,7 @@ define('CREDITS', '<center><script async src="//pagead2.googlesyndication.com/pa
      data-ad-slot="8604217753"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center><br><a href="https://utorrentstream.com/" class="rl-link"><b>uTorrent Stream Storage | Copyright 2016 Factoogle Corporation | Build by Parveen Bhadoo | Proudly Made in India</b></a>&nbsp;<b class="rev-dev"></small>');
+</script></center><br><a href="https://erogegames.blogspot.com/" class="rl-link"><b>printerDesu Copy</b></a>&nbsp;<b class="rev-dev"></small>');
 
 require_once(CONFIG_DIR . 'setup.php');
 
