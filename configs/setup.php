@@ -36,7 +36,7 @@ require_once('classes/other.php');
 
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>uTorrent Stream Storage Setup</title>
+<head><title>printerDesu Storage Setup</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link title="Rapidleech Style" href="<?php echo TEMPLATE_DIR; ?>styles/rl_style_pm.css?<?php echo time(); ?>" rel="stylesheet" type="text/css" />
 <?php
@@ -269,7 +269,7 @@ if (isset($_POST['setup_save']) && $_POST['setup_save'] == 1) {
 	}
 } else {
 ?>
-<div class="div_setup">uTorrent Stream Storage Setup</div>
+<div class="div_setup">printerDesu Storage Setup</div>
 
 <div class="div_message"><?php echo ($old_options ? 'Old' : 'Default'); ?> Storage Configuration Loaded</div>
 
