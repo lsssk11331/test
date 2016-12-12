@@ -1,0 +1,11 @@
+{
+	"name": "printerDesu",
+	"website": "https://printerDesu.com",
+	"repository": "https://printerDesu.com",
+	"env": {
+		"REFER": {
+			"description": "Optionally doesnot requires (defaults to 'printerDesu')",
+			"required": false
+		}
+	}
+}
